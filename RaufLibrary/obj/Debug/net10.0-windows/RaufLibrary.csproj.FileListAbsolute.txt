@@ -1,0 +1,14 @@
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\obj\Debug\net10.0-windows\RaufLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\obj\Debug\net10.0-windows\RaufLibrary.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\obj\Debug\net10.0-windows\RaufLibrary.AssemblyInfo.cs
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\obj\Debug\net10.0-windows\RaufLibrary.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\bin\Debug\net10.0-windows\Рауф.exe
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\bin\Debug\net10.0-windows\Рауф.deps.json
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\bin\Debug\net10.0-windows\Рауф.runtimeconfig.json
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\bin\Debug\net10.0-windows\Рауф.dll
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\bin\Debug\net10.0-windows\Рауф.pdb
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\obj\Debug\net10.0-windows\Рауф.dll
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\obj\Debug\net10.0-windows\refint\Рауф.dll
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\obj\Debug\net10.0-windows\Рауф.pdb
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\obj\Debug\net10.0-windows\RaufLibrary.genruntimeconfig.cache
+C:\Users\123\Desktop\пп\Рауф\RaufLibrary\obj\Debug\net10.0-windows\ref\Рауф.dll
